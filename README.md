@@ -6,4 +6,3 @@
 ```python
 print("hello world")
 
-arthur eh viado
